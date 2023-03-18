@@ -1,5 +1,5 @@
 # Laravel-react-api
-This app is used to provide Laravel react crud based on api.
+This app is used to provide Laravel-react crud operations based on api.
 
 Steps to install the app.
 1- git clone, or download and extract it in the server.
