@@ -3,7 +3,7 @@ In this app I use Laravel with React in seperated directories, along with react 
 
 Steps to install the app.
 
-1- git clone, or download and extract it in the server.
+1- git clone, or download laravel-react-api.zip and extract it in the server.
 
 2- set your database configuration in .env file located in laravel-server directory.
 
