@@ -1,5 +1,5 @@
 # Laravel-react-api
-This app is used to provide Laravel-react crud operations based on api.
+In this app I use Laravel with React in seperated directories, along with react I used Axios to communicate with the backend and it also supports the Promise API that is native to JS ES6. Used SweetAlert2 wich is a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes.
 
 Steps to install the app.
 
